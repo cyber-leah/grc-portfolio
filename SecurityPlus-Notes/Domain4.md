@@ -1,7 +1,7 @@
 # Security+ Domain 4: Security Operations
 
 
-# Security+ Domain 4: Hardening Targets
+# Hardening Targets
 
 Hardening targets is a proactive approach to cybersecurity that reduces vulnerabilities, mitigates risk, and strengthens an organization’s overall security posture. Below is a summary of different targets and methods used to harden them effectively.
 
