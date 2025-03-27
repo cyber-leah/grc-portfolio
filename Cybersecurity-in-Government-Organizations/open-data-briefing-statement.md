@@ -21,7 +21,7 @@ Today’s briefing is intended to raise awareness about the security issues aris
 
 Open data is publicly accessible and may be reused or shared by anyone, usually with minimal requirements such as attribution or similar licensing (Open Knowledge Foundation, n.d.).
 
-The Open Definition emphasizes that data must be fully accessible, downloadable in modifiable formats, and freely reusable without restriction. This openness supports interoperability and the combination of datasets from different sources—key for building better tools, services, and data-driven decisions (Open Knowledge Foundation, n.d.).
+The Open Definition emphasizes that data must be fully accessible, downloadable in modifiable formats, and freely reusable without restriction. This openness supports interoperability and the combination of datasets from different sources, key for building better tools, services, and data-driven decisions (Open Knowledge Foundation, n.d.).
 
 ---
 
@@ -31,7 +31,7 @@ Three categories of open data with associated security risks include:
 
 ### 1. Critical Infrastructure Data
 
-CISA defines critical infrastructure as sectors like energy, water and wastewater, transportation, and emergency services—systems vital to national security and public health (CISA, n.d.-a).
+CISA defines critical infrastructure as sectors like energy, water and wastewater, transportation, and emergency services, systems vital to national security and public health (CISA, n.d.-a).
 
 Open datasets often include geospatial info (maps, coordinates) about physical assets like power plants and water treatment facilities. While useful for public planning, this data could be exploited by threat actors to plan cyberattacks or physical sabotage.
 
