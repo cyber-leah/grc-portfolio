@@ -1,6 +1,6 @@
 
 # Gap Analysis  
-**Security+ Domain 1: Threats, Attacks, and Vulnerabilities**
+**Security+ Domain 1: General Security Concepts**
 
 ## What is Gap Analysis?
 
