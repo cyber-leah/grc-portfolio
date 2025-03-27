@@ -1,4 +1,3 @@
-
 # E-Commerce Risk Analysis – Bay & Shore General Store
 
 **Author:** Leah  
@@ -8,7 +7,7 @@
 
 ## Introduction
 
-Bay & Shore General Store, a coastal retailer known for themed home goods and locally sourced confections, is preparing to expand into e-commerce. With a decline in physical store visits and an increase in remote orders, establishing an online presence is essential. However, the shift to digital introduces a variety of cyber and IT risks.
+Bay & Shore General Store, a coastal retailer known for themed home goods and locally sourced confections, is preparing to expand into e-commerce. With physical store visits declining and remote orders increasing, establishing an online presence is essential. However, the shift to digital introduces various cyber and IT risks.
 
 This analysis evaluates those risks through the lens of cybersecurity governance, risk, and compliance (GRC), particularly focusing on PCI DSS, insider threats, and data protection. Recommendations are provided to help Bay & Shore safeguard its operations and customer trust.
 
@@ -16,7 +15,7 @@ This analysis evaluates those risks through the lens of cybersecurity governance
 
 ## E-Commerce Industry Overview
 
-E-commerce has become central to consumer behavior, particularly post-COVID. With this convenience comes responsibility—especially around secure payment processing.
+E-commerce has become central to consumer behavior, particularly post-COVID-19. With this convenience comes responsibility—especially around secure payment processing.
 
 To meet security expectations, Bay & Shore must align with **PCI DSS**, a framework ensuring the safety of cardholder data. PCI DSS includes requirements such as:
 
@@ -66,7 +65,7 @@ Bay & Shore identified eight realistic risks in Table 2 (not shown here for brev
 Bay & Shore should adopt the following cybersecurity strategies:
 
 ### 1. Prioritize Risk
-Focus on the most probable and high-impact risks first, to efficiently allocate resources.
+Focus on the most probable and high-impact risks first to efficiently allocate resources.
 
 ### 2. Vulnerability Assessments & Pen Testing
 Regular assessments will help identify and close security gaps before exploitation occurs.
@@ -99,7 +98,7 @@ Ensure employees only access data and tools necessary for their role to reduce i
 
 ## Conclusion
 
-Bay & Shore is poised to grow through e-commerce but must address cybersecurity risks head-on. With a solid GRC strategy—including PCI DSS compliance, risk assessments, and employee training—the company can protect its assets, its customers, and its reputation.
+Bay & Shore is poised to grow through e-commerce but must address cybersecurity risks head-on. A solid GRC strategy, including PCI DSS compliance, risk assessments, and employee training, can protect the company's assets, customers, and reputation.
 
 ---
 
