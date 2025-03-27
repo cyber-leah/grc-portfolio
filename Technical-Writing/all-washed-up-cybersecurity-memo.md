@@ -1,16 +1,16 @@
 
-# Cybersecurity Recommendations for All Washed Up
+# Cybersecurity Recommendations for Bubbly Car Wash
 
 **Author:** Leah  
 **Date:** April 16, 2024  
-**To:** Maria Carman  
-**Subject:** Suggestions to Improve Cybersecurity Best Practices at All Washed Up
+**To:** CEO Maria   
+**Subject:** Suggestions to Improve Cybersecurity Best Practices at Bubbly Car Wash
 
 ---
 
 ## Executive Summary
 
-All Washed Up is a growing company that has benefited from integrating technology such as:
+Bubbly Car Wash is a growing company that has benefited from integrating technology such as:
 - A social media presence
 - Office computers for data storage
 - Customer-facing computers
@@ -33,7 +33,7 @@ However, these advancements introduce cybersecurity vulnerabilities. This report
 
 ### 3. Risks from Waiting Room Computers
 - Customers may visit unsecured websites or enter personal credentials.
-- Risk: Malware infection, access to All Washed Up’s network, data breaches.
+- Risk: Malware infection, access to Bubbly Car Wash’s network, data breaches.
 
 ---
 
@@ -76,7 +76,7 @@ However, these advancements introduce cybersecurity vulnerabilities. This report
 
 ## Conclusion
 
-While All Washed Up has made excellent strides in its use of technology, it must now take proactive steps to mitigate associated cyber risks. Implementing these recommendations will help protect customer information, maintain brand trust, and reduce the risk of costly breaches or incidents.
+While Bubbly Car Wash has made excellent strides in its use of technology, it must now take proactive steps to mitigate associated cyber risks. Implementing these recommendations will help protect customer information, maintain brand trust, and reduce the risk of costly breaches or incidents.
 
 ---
 
