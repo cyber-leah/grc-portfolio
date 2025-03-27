@@ -39,7 +39,7 @@ Open datasets often include geospatial info (maps, coordinates) about physical a
 
 The Trojan Detection Software Challenge dataset on data.gov includes labeled malware samples for educational purposes (NIST, 2025-a). Though valuable for innovation, detailed threat data can be misused or reverse-engineered by attackers.
 
-CISA warns that premature release of detailed incident data—before affected systems are secured—can create an exploit window for cybercriminals (CISA, n.d.-b).
+CISA warns that premature release of detailed incident data, before affected systems are secured, can create an exploit window for cybercriminals (CISA, n.d.-b).
 
 ### 3. Federal Financial Data
 
