@@ -1,23 +1,6 @@
 
-# Data Sanitization and Hardening Techniques  
-**Domain 1: Threats, Attacks, and Vulnerabilities**
-
-## Data Sanitization
-
-Data sanitization is the process of securely destroying data to ensure it cannot be recovered or misused.
-
-### Paper Sanitization
-- **Best method**: Burning
-- **Alternative**: Pulping or cross-cut shredding
-
-### Media Sanitization
-- **Best method**: Shredding hard drives
-- **Alternatives**: 
-  - Pulverizing with a sledgehammer
-  - **Degaussing** (least secure): neutralizes magnetic fields but may not fully destroy the medium
-- To reuse media, you must **overwrite, format, or wipe** it.
-
-> **Effective decommissioning** helps reduce risk, lower costs, and meet compliance requirements.
+# Hardening Techniques  
+**Domain 2: Threats, Attacks, and Vulnerabilities**
 
 ---
 
