@@ -1,6 +1,6 @@
 
 # Zero Trust  
-**Security+ Domain 1: Threats, Attacks, and Vulnerabilities**
+**Security+ Domain 1: General Concepts**
 
 ## What is Zero Trust?
 
