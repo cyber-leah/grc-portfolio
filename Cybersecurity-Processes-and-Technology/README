@@ -1,18 +1,24 @@
+
 # Cybersecurity Processes and Technology
 
-This folder contains work completed during my coursework at UMGC for the class **Cybersecurity Processes and Technology**. The class introduced fundamental cybersecurity concepts and practices, including risk identification, cyber defense strategies, and real-world implications of cyber threats.
+This folder contains work completed during my coursework at UMGC for the class **Cybersecurity Processes and Technology**. The class introduced fundamental cybersecurity concepts and practices, including risk identification, cyber defense strategies, compliance frameworks, and real-world implications of cyber threats in both supply chain and e-commerce contexts.
 
 ## Included Work
 
 ### 📄 Supply Chain Risk Analysis – Sifers-Grayson
-This paper explores the growing threats within IT and cyber supply chains. It examines both hardware and software vulnerabilities that could impact a defense contractor, Sifers-Grayson, which serves clients like the Department of Defense and Department of Homeland Security. The analysis provides real-world examples and concludes with five best practices for mitigating supply chain risk.
+This paper explores hardware and software vulnerabilities in IT and cyber supply chains. It highlights the risks facing a defense contractor (Sifers-Grayson), including potential national security implications due to their work with DoD and DHS. The paper concludes with five actionable best practices to reduce risk.
+
+### 📄 E-Commerce Risk Analysis – Bay & Shore General Store
+This analysis examines cybersecurity challenges faced by a small business expanding into e-commerce. It focuses on PCI DSS compliance, payment security, insider threats, and customer trust. It also applies four risk treatment strategies—accept, avoid, mitigate, and transfer—to real-world risk scenarios.
 
 ## Skills Demonstrated
 - Cyber and IT risk analysis
-- Vendor risk awareness
-- Understanding of supply chain vulnerabilities
-- Practical recommendations aligned with security frameworks
-- Clear, professional technical writing
+- PCI DSS awareness and application
+- Vendor and e-commerce risk management
+- Framework use (e.g., NIST SP 800-30, PCI DSS)
+- Security recommendations for real-world business contexts
+- GRC-related writing and documentation
 
-This work reflects my interest in cybersecurity governance, risk, and compliance (GRC), and my goal of working in vendor risk management.
+This work reflects my growing interest in cybersecurity governance, risk, and compliance (GRC), and supports my goal of entering roles like vendor risk analyst, cybersecurity compliance analyst, or privacy analyst.
+
 
