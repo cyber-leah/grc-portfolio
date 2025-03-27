@@ -1,0 +1,21 @@
+                    +------------------------------+
+                    |     Generative AI Risks      |
+                    +------------------------------+
+                              |
+    +----------------+--------+---------+-------------------+
+    |                |                  |                   |
+CBRN Info       Confabulation     Privacy/Data        Intellectual
+(Misuse of      (False or         Leakage            Property Concerns
+dangerous       misleading        & Inference)       (IP Theft/Reuse)
+knowledge)      outputs)          -------------------------------
+                                                        |
+       +------------------+----------------+------------+-----------+
+       |                  |                |                        |
+Model Bias         Model Inversion   Model Theft              Obscene/Abusive
+(Harmful patterns) (Extract training) (Copy AI IP)            Content
+                                                                 |
+                            +---------------------+
+                            | Human-AI Misuse     |
+                            | - Misalignment      |
+                            | - Overreliance      |
+                            +---------------------+
