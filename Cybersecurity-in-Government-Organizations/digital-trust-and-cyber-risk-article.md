@@ -16,7 +16,7 @@ As COVID-19 fades in the rearview mirror, one thing is clear: government service
 
 ## Online Government: A Trust Issue?
 
-With the advancement of government service digitization, time-consuming tasks that leave you questioning all your life choices—like renewing your driver’s license—are now available online. This reduction in inefficiency, whether at the DMV or another agency, helps ease the workload for government employees while reducing the pain for citizens.
+With the advancement of government service digitization, time-consuming tasks that leave you questioning all your life choices, like renewing your driver’s license, are now available online. This reduction in inefficiency, whether at the DMV or another agency, helps ease the workload for government employees while reducing the pain for citizens.
 
 In a 2022 survey of 35,000 individuals, 54% agreed that going online for government help was easier (Jazayeri, 2024). However, ease of use isn’t the only thing people care about. The **Connected Government** report found that **trust** in government and **data privacy** remain top concerns. In a survey spanning 36 countries, 87% of citizens said a *“great” digital experience would increase their trust in government* (Jazayeri, 2024).
 
@@ -35,7 +35,7 @@ That breach is one of many. Government agencies now face:
 - More phishing attacks targeting employees and citizens
 - Ransomware threats holding public data hostage
 
-Federal, state, and local agencies are all vulnerable—and the stakes have never been higher.
+Federal, state, and local agencies are all vulnerable, and the stakes have never been higher.
 
 ---
 
