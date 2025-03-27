@@ -1,3 +1,4 @@
+
 # E-Commerce Risk Analysis – Bay & Shore General Store
 
 **Author:** Leah  
@@ -7,7 +8,7 @@
 
 ## Introduction
 
-Bay & Shore General Store, a coastal retailer known for themed home goods and locally sourced confections, is preparing to expand into e-commerce. Establishing an online presence is essential, as physical store visits are declining and remote orders are increasing. However, the shift to digital introduces various cyber and IT risks.
+Bay & Shore General Store, a coastal retailer known for themed home goods and locally sourced confections, is preparing to expand into e-commerce. With a decline in physical store visits and an increase in remote orders, establishing an online presence is essential. However, the shift to digital introduces various cyber and IT risks.
 
 This analysis evaluates those risks through the lens of cybersecurity governance, risk, and compliance (GRC), particularly focusing on PCI DSS, insider threats, and data protection. Recommendations are provided to help Bay & Shore safeguard its operations and customer trust.
 
@@ -98,7 +99,7 @@ Ensure employees only access data and tools necessary for their role to reduce i
 
 ## Conclusion
 
-Bay & Shore is poised to grow through e-commerce but must address cybersecurity risks head-on. A solid GRC strategy, including PCI DSS compliance, risk assessments, and employee training, can protect the company's assets, customers, and reputation.
+Bay & Shore is poised to grow through e-commerce but must address cybersecurity risks head-on. The company can protect its assets, customers, and reputation with a solid GRC strategy—including PCI DSS compliance, risk assessments, and employee training.
 
 ---
 
