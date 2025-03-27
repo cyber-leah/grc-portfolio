@@ -1,4 +1,3 @@
-
 # Supply Chain Risk Analysis – Sifers-Grayson
 
 **Author:** Leah  
@@ -8,7 +7,7 @@
 
 ## Introduction
 
-Sifers-Grayson relies on a network of vendors for equipment, components, and software used in their drone and robot projects. While this supply chain is critical to operations, it introduces significant risks to product quality, intellectual property, and the security of sensitive client data—especially concerning their work with the Department of Defense (DoD) and Department of Homeland Security (DHS).
+Sifers-Grayson relies on a network of vendors for the equipment, components, and software used in its drone and robot projects. While this supply chain is critical to operations, it introduces significant risks to product quality, intellectual property, and the security of sensitive client data, especially concerning its work with the Departments of Defense (DoD) and Homeland Security (DHS).
 
 This report outlines Sifers-Grayson's exposure to cyber and IT supply chain risks, provides examples of hardware and software vulnerabilities, and recommends best practices to mitigate these risks.
 
@@ -16,7 +15,7 @@ This report outlines Sifers-Grayson's exposure to cyber and IT supply chain risk
 
 ## Cyber IT & Supply Chain Risks
 
-A vulnerability in either hardware or software from vendors can severely impact Sifers-Grayson. A ReversingLabs survey found that nearly 90% of tech professionals encountered major software supply chain risks in the past year.
+A vulnerability in vendor hardware or software can severely impact Sifers-Grayson. A ReversingLabs survey found that nearly 90% of tech professionals encountered major software supply chain risks in the past year.
 
 ### Hardware Supply Chain Risks
 
@@ -35,7 +34,7 @@ A vulnerability in either hardware or software from vendors can severely impact 
    With 90% of applications using open-source code, vulnerabilities can spread easily. Sonatype reported a 430% rise in supply chain attacks in 2020.
 
 2. **Hijacked Updates:**  
-   Compromised update mechanisms (e.g., NotPetya 2017) can distribute malware to multiple organizations simultaneously.
+   Compromised update mechanisms (e.g., NotPetya 2017) can simultaneously distribute malware to multiple organizations.
 
 3. **Vendor Risks:**  
    Even trusted vendors can cause disruptions, as shown by a CrowdStrike EDR update that triggered system crashes beyond their direct customer base.
