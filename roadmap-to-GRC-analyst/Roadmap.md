@@ -88,8 +88,8 @@ Start specializing in high-impact GRC functions and aim for mid-level roles.
 
 ## 📚 Certifications Timeline
 
-- [x] CompTIA Security+ (Target: [Month] [Year])
-- [ ] CISA – Certified Information Systems Auditor (Target: [Month] [Year after Sec+])
+- [x] CompTIA Security+ (Target: [May] [2025])
+- [ ] CISA – Certified Information Systems Auditor (Target: [September] [2025])
 
 ---
 
@@ -103,4 +103,4 @@ Start specializing in high-impact GRC functions and aim for mid-level roles.
 ---
 
 _Thanks for following my journey!_ 🌟  
-Let’s connect on LinkedIn or collaborate on GRC projects.
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/leah-livingston-26692778/) or collaborate on GRC projects. 
