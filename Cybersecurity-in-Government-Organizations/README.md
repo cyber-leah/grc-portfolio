@@ -19,3 +19,17 @@ This briefing raises awareness about the risks associated with open data initiat
 - Real-world breach and open data scenario analysis
 
 This work strengthens my ability to communicate cybersecurity risks and solutions clearly to business leaders, government stakeholders, and the public—an essential skill in GRC and cybersecurity compliance roles.
+
+
+## 📁 Cybersecurity-in-Government-Organizations — Notes Index
+
+📝 **Study Notes & Resources**
+- [CAP-CBK-Notes.md](./CAP-CBK-Notes.md) — Chapter summaries and key concepts from the CAP CBK 2nd Ed.
+- [Sample-Risk-Assessment-Outline.md](./Sample-Risk-Assessment-Outline.md) — Based on NIST SP 800-30; risk assessment report template
+
+📚 **Articles & Briefings**
+- [digital-trust-and-cyber-risk-article.md](./digital-trust-and-cyber-risk-article.md) — Article summary or analysis
+- [open-data-briefing-statement.md](./open-data-briefing-statement.md) — Briefing statement on open data policy
+
+---
+📌 *Use this index to navigate between resources in this repo.*
