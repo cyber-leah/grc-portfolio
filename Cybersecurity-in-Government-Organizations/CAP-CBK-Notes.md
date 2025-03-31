@@ -49,5 +49,48 @@
 
 ---
 
+### **Security Controls**
+
+- **FIPS 199 Definition:** Security controls are the management, operational, and technical safeguards or countermeasures used to protect the confidentiality, integrity, and availability of information systems.
+- **Challenges:**
+  - Implementing controls may be costly or technically infeasible for some systems.
+  - Organizations can manage this by examining systems and applying MSBs aligned to risk needs.
+- **Decomposition Strategy:**
+  - Large systems can be broken down into manageable components for easier authorization and cost-effective control application.
+
+### **Levels of Controls**
+
+- Controls must be adjusted based on:
+  - System type (e.g., general support vs. major application)
+  - System sensitivity (e.g., low, moderate, high)
+- **Technology-specific control sets** should supplement the MSB to meet baseline requirements for:
+  - OS, databases, web servers, routers, etc.
+
+#### Sensitivity Levels:
+- **Low Sensitivity:** Implements automatic updates for malicious code protection.
+- **Moderate Sensitivity:** Adds centralized management of protection mechanisms.
+- **High Sensitivity:** Includes all prior plus full automation of virus protection updates.
+
+### **Risk Assessment in System Authorization**
+
+- **Purpose:** Tailors controls to system-specific risks. Ties asset identification to environment definition and maps vulnerabilities to MSBs.
+- **Integration:** Must align with the overall system authorization process.
+
+---
+
+### **Risk Assessment Process — 9 Steps**
+
+1. **System Characterization:** Define system type, boundaries, purpose, assets, users, and environment.
+2. **Threat Identification:** Document potential threats (environmental, human, internal, external, intentional, unintentional).
+3. **Vulnerability Identification:** Identify weaknesses that may be exploited; compare against MSBs and known vulnerabilities.
+4. **Control Analysis:** Analyze existing and planned controls (technical, management, and operational) to determine what mitigates threats.
+5. **Likelihood Determination:** Assess the probability of threat/vulnerability pairs using qualitative or quantitative ratings.
+6. **Impact Analysis:** Determine the impact of exploitation based on system sensitivity and mission criticality.
+7. **Risk Determination:** Combine likelihood and impact to assign risk ratings; identify most significant risks.
+8. **Control Recommendations:** Suggest additional or alternative controls based on cost-effectiveness and risk reduction.
+9. **Results Documentation:** Report threats, vulnerabilities, risk levels, and recommendations. Append findings to SSP.
+
+---
+
 > ✏️ *More chapters and details will be added.*
 
