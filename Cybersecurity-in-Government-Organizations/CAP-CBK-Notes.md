@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 Chapter 1: Introduction to the Risk Management Framework (RMF)
+## 📖 Chapter 1: Security Authorization of Information Systems
 
 - **Purpose of RMF:** Structured process for integrating security and risk management into the system development life cycle (SDLC).
 - **Steps of RMF:**
@@ -29,6 +29,23 @@
   - System Security Plan (SSP)
   - Information Types and Impact Levels
 - **Tools:** Categorization Worksheet, Data Flow Diagrams (DFDs)
+
+---
+
+## 📖 Chapter 3: Select Security Controls
+
+### **Minimum Security Baselines and Best Practices**
+
+- **Definition:** A **minimum security baseline (MSB)** is a set of standardized, essential controls that must be implemented across all systems to ensure a consistent level of compliance and protection.
+- **Purpose:**
+  - Establishes a reference point for assessing the organization's security posture.
+  - Ensures every system meets at least a basic level of security.
+  - Serves as a starting point for risk assessments and tailoring security controls.
+- **Benefits:**
+  - Enhances control requirements.
+  - Eliminates non-applicable controls.
+  - Supports compliance by enforcing consistent configurations across IT platforms and devices.
+- **Key Takeaway:** "All of our systems will implement this basic set of security controls."
 
 ---
 
