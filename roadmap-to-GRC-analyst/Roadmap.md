@@ -1,6 +1,6 @@
 # 🎯 Road to GRC Analyst – Security Compliance & Risk Focus
 
-Hi! I'm Leah—a cybersecurity student on a mission to become a GRC Analyst with a strong foundation in security compliance, audit readiness, and IT risk management. This repo documents my learning journey, projects, and roadmap toward qualifying for entry-level roles in Governance, Risk, and Compliance (GRC).
+Hi! If you missed it earlier, I'm Leah, a cybersecurity student on a mission to become a GRC Analyst with a strong foundation in security compliance, audit readiness, and IT risk management. This repo documents my learning journey, projects, and roadmap toward qualifying for entry-level roles in Governance, Risk, and Compliance (GRC).
 
 ---
 
@@ -32,7 +32,7 @@ Build fundamental knowledge of risk, compliance, and control frameworks.
 
 ### 💼 Phase 2: Entry-Level Experience + Portfolio (6–12 Months)
 
-Apply for junior-level roles or internships, and continue portfolio development.
+Apply for junior-level roles or internships and continue portfolio development.
 
 - [ ] Apply for roles like:
   - IT Risk & Compliance Analyst
