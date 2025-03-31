@@ -90,6 +90,10 @@
 8. **Control Recommendations:** Suggest additional or alternative controls based on cost-effectiveness and risk reduction.
 9. **Results Documentation:** Report threats, vulnerabilities, risk levels, and recommendations. Append findings to SSP.
 
+- **Conducting the Risk Assessment** The minimum information for the risk assessment relates to:
+1. **Assets** 
+2. **Threats** 
+3. **Vulnerability Identification:** 
 ---
 
 > ✏️ *More chapters and details will be added.*
