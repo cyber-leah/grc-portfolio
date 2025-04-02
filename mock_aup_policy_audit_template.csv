@@ -1,0 +1,7 @@
+Step,Task,Notes
+1,Locate and obtain a copy of the AUP,Found in HR SharePoint under 'Policies'
+2,Verify approval and review dates,Last reviewed 2 years ago - outdated
+3,Check if it defines acceptable/unacceptable behaviors,Pass -  Covered clearly
+4,Check alignment with security awareness training,Fail -  Not referenced
+5,Compare against NIST 800-53 AC-1 & ISO 27001 A.6.2.1,Partial - Partial alignment (missing guidance on remote work)
+6,Interview HR or policy owner for clarification,HR confirms no update process in place
