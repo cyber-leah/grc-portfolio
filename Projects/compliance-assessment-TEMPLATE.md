@@ -1,4 +1,4 @@
-# Mock Compliance Assessment Practice
+# For Mock Compliance Assessment Practice
 
 ## 🧠 What This Is
 This file is for practicing ethical, public-facing compliance assessments of real or fictional companies. The goal is to simulate what a GRC analyst or auditor might do during a controls review, policy evaluation, or risk analysis—**without needing access to internal systems or confidential data.**
