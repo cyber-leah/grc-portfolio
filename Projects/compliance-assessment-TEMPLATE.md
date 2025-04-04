@@ -9,12 +9,12 @@ This file is for practicing ethical, public-facing compliance assessments of rea
 - Only use **publicly available information** (privacy policies, terms of service, compliance webpages, etc.)
 - Clearly state when something is a **simulation or assumption**
 - Do **not** claim or imply unauthorized access or official conclusions
-- Keep your work professional and constructive
+- Keep work professional and constructive
 
 ---
 
-## 🧰 Frameworks You Can Use
-Structure your assessments using:
+## 🧰 Frameworks To Use
+Structure assessments using:
 - NIST SP 800-53 (Rev. 5)
 - NIST CSF
 - ISO/IEC 27001
@@ -39,7 +39,7 @@ Structure your assessments using:
 - Example: "The company has no public cookie opt-out mechanism, which may create GDPR noncompliance risk."
 
 ### Reflection:
-- What did you learn?
+- What was learned?
 - How would you approach this differently with access to internal policies?
 
 ---
@@ -52,7 +52,7 @@ Structure your assessments using:
 ---
 
 ## 📝 Notes & Reflections
-_Use this space to track any thoughts, takeaways, or future ideas._
+_This space will be used to track any thoughts, takeaways, or my future ideas._
 
 ---
 
