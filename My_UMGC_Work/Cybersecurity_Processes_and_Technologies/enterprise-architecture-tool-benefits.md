@@ -1,5 +1,7 @@
 # 🧠 Why Businesses Need an Enterprise Architecture (EA) Tool
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This document outlines the benefits of using an Enterprise Architecture (EA) tool across an organization, focusing on improved risk management, increased visibility, and reduced costs._
 
 ---
