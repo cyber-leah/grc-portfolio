@@ -1,4 +1,5 @@
 # 🛡️ Security Operations and Control Center (SOCC) Best Practices
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
 
 > _This document outlines the value of a Security Operations and Control Center (SOCC) in supporting effective cybersecurity incident response. It highlights best practices aligned with the four key phases of the incident response process and explains how a SOC supports ongoing risk management._
 
