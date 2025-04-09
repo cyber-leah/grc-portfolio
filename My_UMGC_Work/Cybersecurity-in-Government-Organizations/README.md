@@ -11,12 +11,20 @@ This mock newsletter article discusses the lasting digital shift in government s
 ### 📄 Open Data Briefing Statement
 This briefing raises awareness about the risks associated with open data initiatives at the federal and state levels. It examines how critical infrastructure data, cyber incident datasets, and federal financial transparency efforts—while important—can introduce vulnerabilities if not properly managed. The statement provides best practices using NIST’s Risk Management Framework, the CIA triad, and OMB Circular A-137 to guide secure, responsible data sharing.
 
+### 📄 FedRAMP and Play #11: Strengthening Security in Digital Government Services
+This briefing outlines the purpose and value of FedRAMP for securing cloud-based digital services in the federal government. It also explains how Play #11 from the Digital Services Playbook helps agencies embed privacy and security into service design from the start.
+
+### 📄 Privacy Impact Assessments in Federal IT Systems
+This briefing explores the importance of Privacy Impact Assessments (PIAs) and their legal foundation under the E-Government Act. It also introduces the four types of privacy (information, bodily, territorial, and communications) and highlights best practices from GAO and DHS to enhance privacy protections and public trust.
+
 ## Skills Demonstrated
-- Risk communication and public outreach
-- Understanding of cybersecurity frameworks and standards
-- Government-focused risk analysis and safeguards
-- Technical writing tailored for a non-technical audience
-- Real-world breach and open data scenario analysis
+- Risk and policy communication for federal cybersecurity initiatives
+- Legal and compliance awareness (E-Government Act, Homeland Security Act)
+- Framework fluency (FedRAMP, NIST RMF, OMB A-137, GAO guidance, DHS privacy protocols)
+- Public sector cybersecurity analysis and privacy safeguards
+- Real-world breach analysis and open data risk evaluation
+- Technical writing tailored for non-technical audiences and agency leadership
+- Translation of complex frameworks into actionable security guidance
 
 This work strengthens my ability to communicate cybersecurity risks and solutions clearly to business leaders, government stakeholders, and the public—an essential skill in GRC and cybersecurity compliance roles.
 
