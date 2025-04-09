@@ -1,5 +1,5 @@
-
 # Open Data Briefing Statement
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
 
 **Author:** Leah  
 **Course:** Cybersecurity in Government Organizations  
