@@ -1,5 +1,7 @@
 # 🏥 Physical Security Plan for a Regional Hospital
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This document summarizes physical security and cyber hygiene measures based on a hospital layout diagram, including perimeter protection, visitor management, maternity ward safeguards, and HIPAA-focused training._
 
 ---
