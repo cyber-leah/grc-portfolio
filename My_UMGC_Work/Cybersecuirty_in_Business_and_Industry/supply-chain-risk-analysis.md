@@ -1,4 +1,5 @@
 # Supply Chain Risk Analysis – Sifers-Grayson
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
 
 **Author:** Leah  
 **Date:** October 15, 2024  
