@@ -1,5 +1,7 @@
 # 🎯 Talking Points: The Importance of OPSEC for the Test Range
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This document outlines key points about why Operational Security (OPSEC) is critical for protecting sensitive communication and data across test environments, including the Test Range, Test Vehicle, and R&D Center._
 
 ---
