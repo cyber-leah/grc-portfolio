@@ -1,5 +1,7 @@
 # 🛡️ Final Project: Defensive Security Strategies for Strengthening Cybersecurity
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This document outlines two proposed defensive security strategies to improve a company's cybersecurity posture: implementing a Demilitarized Zone (DMZ) and deploying enterprise-wide protective and detective measures._
 
 ---
