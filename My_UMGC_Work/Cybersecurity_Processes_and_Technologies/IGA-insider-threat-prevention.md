@@ -1,5 +1,7 @@
 # 🧠 The Importance of Identity Governance and Administration (IGA)
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This paper discusses the value of implementing Identity Governance and Administration (IGA) solutions to help businesses reduce insider threats, improve data security, and enhance operational efficiency._
 
 ---
