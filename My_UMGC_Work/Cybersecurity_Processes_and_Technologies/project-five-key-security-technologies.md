@@ -1,4 +1,5 @@
 # 🔐 Five Critical Technologies for Improving Security Posture
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
 
 > _This project-based analysis outlines five high-priority technologies to help a business improve its cybersecurity posture. Each section addresses a specific vulnerability and provides implementation recommendations aligned with industry best practices._
 
