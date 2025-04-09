@@ -1,5 +1,7 @@
 # 📄 Incident Report Summary: Security Breach Investigation & Compliance Implications
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This incident report was written as part of a Red Team assessment and reflects how the business responded to a simulated cybersecurity breach. It incorporates key compliance considerations under DFARS 252.204-7012 and NIST SP 800-171._
 
 ---
