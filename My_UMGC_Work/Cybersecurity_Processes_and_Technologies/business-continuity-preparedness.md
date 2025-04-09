@@ -1,5 +1,7 @@
 # 🧩 Business Continuity & Disaster Recovery: The Importance of Preparedness
 
+> ⚠️ _This content was developed for academic purposes and adapted for public learning use in a professional portfolio. It is not intended for direct reuse or submission. Please use it as a study reference only._
+
 > _This post is based on a paper I wrote as part of my academic work in cybersecurity management and policy. It reflects what I’ve learned about how businesses can minimize the impact of disruptions by preparing disaster recovery procedures and business continuity plans._
 
 ---
