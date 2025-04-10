@@ -18,9 +18,9 @@ These areas are vital in regulated industries such as finance, fintech, healthca
 
 ## 📁 Folder Contents
 
-- [`AML.md`](./aml.md): Key definitions, stages of laundering, laws, and compliance best practices.
-- [`KYC.md`](./kyc.md): Overview of identity verification, CDD vs. EDD, and monitoring procedures.
-- [`Fraud-investigation.md`](./fraud-investigation.md): Common fraud types, investigation steps, and indicators.
+- [`AML.md`](./AML.md): Key definitions, stages of laundering, laws, and compliance best practices.
+- [`KYC.md`](./KYC.md): Overview of identity verification, CDD vs. EDD, and monitoring procedures.
+- [`Fraud-investigation.md`](./Fraud-investigation.md): Common fraud types, investigation steps, and indicators.
 
 ---
 
