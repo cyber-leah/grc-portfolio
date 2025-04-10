@@ -45,7 +45,8 @@ Understanding AML, KYC, and fraud investigation is essential for GRC professiona
 
 ---
 
->🧑‍💻 About the Author:**
+>🧑‍💻 About the Author:
+>
 I'm a cybersecurity and GRC student building a professional portfolio to showcase practical knowledge in regulatory compliance, risk management, and IT security. This repo is part of my learning journey. Suggestions are welcome, but all content is curated by me to reflect my personal growth and understanding.
 
 
