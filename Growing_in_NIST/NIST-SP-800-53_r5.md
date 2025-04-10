@@ -90,4 +90,4 @@ SP 800-53 R5 adds dedicated **privacy controls** and emphasizes:
 
 ## 🛠 Implementation Tips
 
-- Use the companion guide [SP 800-53B](https://csrc.n
+- Use the companion guide [SP 800-53B](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
