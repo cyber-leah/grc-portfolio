@@ -160,4 +160,3 @@ Diagram:
 
 ---
 
-*You're doing great — keep studying and come back to this guide when you need a refresh!*
