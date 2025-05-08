@@ -1,4 +1,5 @@
-# Compliance Analysis Template
+
+# Compliance Analysis Template 📋✅
 
 ## Overview
 This compliance analysis template is designed to help assess how a business's data privacy notice aligns with regulatory frameworks such as GLBA, CCPA, and HIPAA. This template will break down key sections, identify potential compliance gaps, and provide action items for improvement.
